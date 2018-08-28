@@ -64,3 +64,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # jquery
 gem 'jquery-rails'
 gem 'jquery-turbolinks'
+
+# user authentication
+gem 'devise'
